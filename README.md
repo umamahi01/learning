@@ -1,1 +1,2 @@
-# learning
+# learning 
+everyone should learn
